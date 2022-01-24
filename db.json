@@ -3,6 +3,14 @@
     "id": 1,
     "Name": "Lahore",
     "Lat": 31.5204,
-    "Long": 74.3587
+    "Long": 74.3587,
+    "postId": 1
+  },
+    {
+    "id": 2,
+    "Name": "Lahore",
+    "Lat": 31.5204,
+    "Long": 74.3587,
+    "postId": 2
   }
 ]
