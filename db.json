@@ -1,16 +1,13 @@
-[
-  {
-    "id": 1,
-    "Name": "Lahore",
-    "Lat": 31.5204,
-    "Long": 74.3587,
-    "postId": 1
-  },
+{
+  "posts": [
     {
-    "id": 2,
-    "Name": "Lahore",
-    "Lat": 31.5204,
-    "Long": 74.3587,
-    "postId": 2
+      "id": 1,
+      "Name": "Lahore",
+      "Lat": 31.5204,
+      "Long": 74.3587
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
